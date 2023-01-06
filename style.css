@@ -1,0 +1,25 @@
+table{
+    border: 1px solid;
+    
+}
+tr td {
+    border: 1px solid;
+}
+.container{
+    background-color: grey;
+    width: 300px;
+    height: auto;
+}
+#popup0{
+    color: red;
+}
+#popup1{
+    color: red;
+}
+#btn{
+    background-color: green;
+    margin-left: 70px;
+}
+#age1{
+    color: red;
+}
